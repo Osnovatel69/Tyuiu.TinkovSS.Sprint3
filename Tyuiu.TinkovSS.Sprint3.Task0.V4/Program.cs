@@ -8,7 +8,7 @@ namespace Tyuiu.TinkovSS.Sprint3.Task0.V4
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-
+            
             Console.Title = "Спринт #3 | Выполнил: Тиньков С. С. | ПКТб-2X-X";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
