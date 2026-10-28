@@ -14,6 +14,11 @@
     <Project Path="Tyuiu.TinkovSS.Sprint3.Task2.V9.Test/Tyuiu.TinkovSS.Sprint3.Task2.V9.Test.csproj" />
     <Project Path="Tyuiu.TinkovSS.Sprint3.Task2.V9/Tyuiu.TinkovSS.Sprint3.Task2.V9.csproj" />
   </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.TinkovSS.Sprint3.Task3.V21.Lib/Tyuiu.TinkovSS.Sprint3.Task3.V21.Lib.csproj" />
+    <Project Path="Tyuiu.TinkovSS.Sprint3.Task3.V21.Test/Tyuiu.TinkovSS.Sprint3.Task3.V21.Test.csproj" />
+    <Project Path="Tyuiu.TinkovSS.Sprint3.Task3.V21/Tyuiu.TinkovSS.Sprint3.Task3.V21.csproj" />
+  </Folder>
   <Folder Name="/Task4/">
     <Project Path="Tyuiu.TinkovSS.Sprint3.Task4.V26.Lib/Tyuiu.TinkovSS.Sprint3.Task4.V26.Lib.csproj" />
     <Project Path="Tyuiu.TinkovSS.Sprint3.Task4.V26.Test/Tyuiu.TinkovSS.Sprint3.Task4.V26.Test.csproj" />
