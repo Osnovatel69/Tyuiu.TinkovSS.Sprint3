@@ -1,7 +1,7 @@
 ﻿using System;
-using Tyiu.TinkovSS.Sprint3.Task6.V20.Lib;
+using Tyuiu.TinkovSS.Sprint3.Task6.V20.Lib;
 
-namespace Tyiu.TinkovSS.Sprint3.Task6.V20
+namespace Tyuiu.TinkovSS.Sprint3.Task6.V20
 {
     internal class Program
     {
