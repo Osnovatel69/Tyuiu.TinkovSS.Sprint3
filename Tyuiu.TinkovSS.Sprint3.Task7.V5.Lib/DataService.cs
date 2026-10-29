@@ -1,7 +1,7 @@
 ﻿using System;
-using tyiu.cources.programming.interfaces.Sprint3;
+using tyuiu.cources.programming.interfaces.Sprint3;
 
-namespace Tyiu.TinkovSS.Sprint3.Task7.V5.Lib
+namespace Tyuiu.TinkovSS.Sprint3.Task7.V5.Lib
 {
     public class DataService : ISprint3Task7V5
     {
