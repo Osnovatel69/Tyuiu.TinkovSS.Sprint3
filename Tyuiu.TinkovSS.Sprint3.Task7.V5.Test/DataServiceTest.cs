@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Tyiu.TinkovSS.Sprint3.Task7.V5.Lib;
+using Tyuiu.TinkovSS.Sprint3.Task7.V5.Lib;
 
 namespace Tyiu.TinkovSS.Sprint3.Task7.V5.Test
 {
